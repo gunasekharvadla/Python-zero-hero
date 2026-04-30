@@ -1,0 +1,8 @@
+print("am Ai Infra Engineer")
+print("helloworld")
+print("am a software engineer")
+print("Starting system check...")
+print("CPU Status: OK")
+print("Memory Status: OK")
+print("Disk Status: OK")
+print("System Healthy")
