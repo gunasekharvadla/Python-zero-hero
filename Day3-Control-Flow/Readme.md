@@ -2,7 +2,7 @@
 
 # 🐍 Day 3 — Control Flow
 
-![Day](https://img.shields.io/badge/Day-02-blue?style=for-the-badge)
+![Day](https://img.shields.io/badge/Day-03-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-Learning-orange?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Topic](https://img.shields.io/badge/Topic-Control%20Flow-green?style=for-the-badge)
